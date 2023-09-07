@@ -14,11 +14,11 @@ export default function Home() {
       {/* <Script src='../script.js' strategy='lazyOnload'/> */}
       <header className="text-gray-600 body-font">
         <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
-          <nav className="md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-center">
-            <a className="mr-5 hover:text-gray-900">Home</a>
-            <a className="mr-5 hover:text-gray-900">About</a>
-            <a className="mr-5 hover:text-gray-900">Blogs</a>
-            <a className="mr-5 hover:text-gray-900">Contact Us</a>
+          <nav className="md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-between lg:w-1/2">
+            <a className="mr-5 hover:text-gray-900 font-bold">Home</a>
+            <a className="mr-5 hover:text-gray-900 font-bold">About</a>
+            <a className="mr-5 hover:text-gray-900 font-bold">Blogs</a>
+            <a className="mr-5 hover:text-gray-900 font-bold">Contact Us</a>
           </nav>
         </div>
       </header>
@@ -49,10 +49,10 @@ export default function Home() {
                       className="w-4 h-4 ml-2"
                       viewBox="0 0 24 24"
                       stroke="currentColor"
-                      stroke-width="2"
+                      strokeWidth="2"
                       fill="none"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
                     >
                       <path d="M5 12h14"></path>
                       <path d="M12 5l7 7-7 7"></path>
@@ -74,10 +74,10 @@ export default function Home() {
                       className="w-4 h-4 ml-2"
                       viewBox="0 0 24 24"
                       stroke="currentColor"
-                      stroke-width="2"
+                      strokeWidth="2"
                       fill="none"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
                     >
                       <path d="M5 12h14"></path>
                       <path d="M12 5l7 7-7 7"></path>
@@ -99,10 +99,10 @@ export default function Home() {
                       className="w-4 h-4 ml-2"
                       viewBox="0 0 24 24"
                       stroke="currentColor"
-                      stroke-width="2"
+                      strokeWidth="2"
                       fill="none"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
                     >
                       <path d="M5 12h14"></path>
                       <path d="M12 5l7 7-7 7"></path>
@@ -124,10 +124,10 @@ export default function Home() {
                       className="w-4 h-4 ml-2"
                       viewBox="0 0 24 24"
                       stroke="currentColor"
-                      stroke-width="2"
+                      strokeWidth="2"
                       fill="none"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
                     >
                       <path d="M5 12h14"></path>
                       <path d="M12 5l7 7-7 7"></path>
